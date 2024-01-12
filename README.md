@@ -1,2 +1,2 @@
-# FoodMM_Backend
-Backend Code for Food@MM
+# Howtodo_Backend
+Backend Code for How to do mobile application
