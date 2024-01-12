@@ -38,6 +38,7 @@ MAIL_FROM_NAME="${APP_NAME}"
 
 
 ## Local Installation
+- git clone
 - composer install 
 - npm install
 - create an empty MySQL database
