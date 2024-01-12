@@ -1,7 +1,7 @@
 
 # How to do Api
 
-How to do is learning managment system mobile applicatino , this is the backend api using laravel and the frontend dashboard is with react js .
+How to do is learning managment system mobile application , this is the backend api using laravel and the frontend dashboard is with react js .
 
 
 
